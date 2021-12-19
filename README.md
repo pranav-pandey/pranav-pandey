@@ -4,8 +4,11 @@
 - 🌱 Currently working as an Engineering Manager @geekyants
 - 🤔 Always on the lookout for new ideas to develop
 - 💬 Ask me about startups, frontend, and photography
-- 📫 Personal https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white pranav.pandey1994@gmail.com
-- 📫 Work https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white pranav@geekyants.com
+
+## Contact me at
+- 📫 Personal pranav.pandey1994@gmail.com
+- 📫 Work pranav@geekyants.com
+- LinkedIn https://www.linkedin.com/in/pranavpandey19/
 
 ## Tech stack
 
