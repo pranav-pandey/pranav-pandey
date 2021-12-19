@@ -8,7 +8,7 @@
 ## Contact me at
 - 📫 Personal pranav.pandey1994@gmail.com
 - 📫 Work pranav@geekyants.com
-- [LinkedIn](https://www.linkedin.com/in/pranavpandey19/)
+- :briefcase: [LinkedIn](https://www.linkedin.com/in/pranavpandey19/)
 
 ## Tech stack
 
