@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m Pranav, I work extensively on the React ecosystem
-- 🌱 Currently working as an Principal Technical Consultant @geekyants
+- 🌱 Currently working as a Principal Technical Consultant @geekyants
 - 🤔 Always on the lookout for new ideas to develop
 - 💬 Ask me about startups, frontend, and photography
 
